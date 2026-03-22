@@ -12,6 +12,8 @@ task8:<img width="1589" height="941" alt="image" src="https://github.com/user-at
 task9:<img width="1720" height="881" alt="image" src="https://github.com/user-attachments/assets/33bfc4d5-30a5-4024-9316-663a93d37b7a" />
 task10:<img width="1692" height="887" alt="image" src="https://github.com/user-attachments/assets/7834d417-d743-43ea-abac-ade3f4f20cc7" />
 
+In this assignment I implemented recursive algorithms in Java to solve different problems with numbers, strings and sequences and all tasks were solved using recursion without loops.
+
 
 
 
